@@ -1,0 +1,100 @@
+Table 1 : User Info
+1. Timestamp
+2. SL
+3. Full Name
+4. Date of Birth
+5. Gender
+6. Email
+7. Phone Number
+8. Country
+9. State
+10. Division
+11. City
+12. Additional Address Info
+13. Password
+Table 2 : Log In Info
+1. Timestamp
+2. SL
+3. Email
+Table 3 : Admin Info
+1. email
+2. password
+Table 4 : Moderator Info
+1. Timestamp
+2. SL
+3. Full Name
+4. Email
+5. Phone Number
+6. Password
+7. Access
+Table 5 : Product Info
+1. SL
+2. Product Name
+3. Product Categeory
+4. Product Details
+5. Product ID
+6. Product Unit Price
+7. Product Unit Cost
+8. Product Discount
+9. Product Supplier ID
+10. Product Status
+Table 6 : Product Update Log
+1. Timestamp
+2. Email
+3. Product ID
+Table 7 : Supplier Info
+1. SL
+2. Supplier Name
+3. Supplier Address
+4. Supplier Phone Number
+5. Supplier Email 
+6. Supplier ID
+7. Supplier Password
+8. Supplier Status
+Table 8 : Cart Info
+1. Timestamp
+2. Cart ID
+3. Email
+4. Product ID
+5. Quantity
+6. Unit Price
+7. Transport Cost
+8. Total Bill
+Table 9 : Order Info
+1. Timestamp
+2. SL
+3. Order ID
+4. Email
+5. Product ID
+6. Quantity
+7. Unit Price
+8. Transport Cost
+9. Total Bill
+10. Supplier Cost
+11. Profit
+12. Payment Method
+13. Payment Status
+14. Order Status
+15. Order Report
+16. Order Review
+17. Supplier ID
+18. Supplier Payment Status
+19. Transportation Payment Status
+Table 10 : Invoice
+1. Timestamp
+2. Invoice Type
+3. Amount
+4. Details
+5. SL
+Table 11 : Trending Product
+1. SL
+2. Product ID
+Table 12 : New Arrival Product
+1. SL
+2. Product ID
+Table 13 : Discount Product
+1. SL
+2. Product ID
+
+
+
